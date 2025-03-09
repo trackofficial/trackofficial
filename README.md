@@ -7,7 +7,7 @@
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-ffffff?style=flat&logo=android)
 ![Figma](https://img.shields.io/badge/-Figma-ffffff?style=flat&logo=figma)
 
-   + :seedling: Viktor
+   + :seedling: I'm Viktor
    + :tent: Belarus
    + :crescent_moon: Junior Android-developer
    + :bookmark_tabs: Designer
