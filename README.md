@@ -1,5 +1,3 @@
-# About me
-
 ![GitHub Profile Banner](https://github.com/user-attachments/assets/521e47cd-af9e-4894-92f1-35fcc3a9b290)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-ffffff?style=flat&logo=kotlin)
 ![XML](https://img.shields.io/badge/-XML-ffffff?style=flat)
