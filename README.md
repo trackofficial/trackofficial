@@ -1,4 +1,4 @@
-![block_info_github](https://github.com/user-attachments/assets/33a7f866-f19a-4fb6-baec-c40e25a409f9)
+![block_info_github](https://github.com/user-attachments/assets/cca17716-1ae2-4953-84ad-3de69b4657e0)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-ffffff?style=flat&logo=kotlin)
 ![XML](https://img.shields.io/badge/-XML-ffffff?style=flat)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-ffffff?style=flat&logo=android)
@@ -13,4 +13,4 @@ ___
    + :stars: [Tg channel](https://t.me/nodevop)
      
 <p align="center">
-  <img src="![GitHub Profile Banner](https://github.com/user-attachments/assets/33a7f866-f19a-4fb6-baec-c40e25a409f9)"></p>
+  <img src="![block_info_github](https://github.com/user-attachments/assets/cca17716-1ae2-4953-84ad-3de69b4657e0)"></p>
