@@ -4,8 +4,9 @@
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-ffffff?style=flat&logo=android)
 ![Figma](https://img.shields.io/badge/-Figma-ffffff?style=flat&logo=figma)
 
-___
-+ Socials
+
+
+- Socials
    + :ferris_wheel: [Instagram](https://www.instagram.com/track_.of?igsh=cGFjNTF6bDcwMjkx)
    + :stars: [Tg channel](https://t.me/nodevop)
      
