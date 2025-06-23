@@ -1,7 +1,18 @@
-![block_info_github](https://github.com/user-attachments/assets/cca17716-1ae2-4953-84ad-3de69b4657e0)
-![Kotlin](https://img.shields.io/badge/-Kotlin-ffffff?style=flat&logo=kotlin)
-![XML](https://img.shields.io/badge/-XML-ffffff?style=flat)
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-ffffff?style=flat&logo=android)
-![Figma](https://img.shields.io/badge/-Figma-ffffff?style=flat&logo=figma)
+
+![block_info_github](https://github.com/user-attachments/assets/0b261e8e-7801-4f54-b65d-e962660d3079)
 <p align="center">
-  <img src="![block_info_github](https://github.com/user-attachments/assets/cca17716-1ae2-4953-84ad-3de69b4657e0)"></p>
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,figma&theme=light" />
+</p>
+
+---
+
+### 👋 Hello!
+
+>My name is Viktor, and I'm a 16yo junior Android developer.  
+>I started coding at 14, first exploring web development, and now focusing on mobile apps.  
+>I design and build my own projects, always learning and growing.
+
+If you find my work valuable, your support means the world! 🚀
+
+<p align="center">
+  <img src="![block_info_github](https://github.com/user-attachments/assets/0b261e8e-7801-4f54-b65d-e962660d3079)"></p>
