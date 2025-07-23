@@ -1,18 +1,13 @@
 
-![block_info_github](https://github.com/user-attachments/assets/0b261e8e-7801-4f54-b65d-e962660d3079)
+![block_info_github](https://github.com/user-attachments/assets/6b803b3e-1bae-43b2-90f3-153252da85d5)
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,figma&theme=light" />
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,figma,gcp,md&theme=dark" />
 </p>
-
----
 
 ### 👋 Hello!
 
->My name is Viktor, and I'm a 16yo Junior Android developer.  
+>My name is Viktor, and I'm a 16yo Junior Android developer from Belarus.  
 >I started coding at 14, first exploring web development, and now focusing on mobile dev.  
 >I design and develop my own projects, always learning and growing my skills.
 
-If you find my work valuable, your support means the world!
-
-<p align="center">
-  <img src="![block_info_github](https://github.com/user-attachments/assets/0b261e8e-7801-4f54-b65d-e962660d3079)"></p>
+I hope my works will be useful
