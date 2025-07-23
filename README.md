@@ -1,7 +1,7 @@
 
 ![block_info_github](https://github.com/user-attachments/assets/6b803b3e-1bae-43b2-90f3-153252da85d5)
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,figma,gcp,md,gradle&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,figma,gcp,md&theme=dark" />
 </p>
 
 ### 👋 Hello!
