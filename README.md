@@ -6,7 +6,7 @@
 
 ### 👋 Hello!
 
->My name is Viktor, and I'm a 16yo Junior Android developer from Belarus.  
+>My name is Viktor, and I'm a 17yo Junior Android developer from Belarus.  
 >I started coding at 14, first exploring web development, and now focusing on mobile dev.  
 >I design and develop my own projects, always learning and growing my skills.
 
