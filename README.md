@@ -1,5 +1,5 @@
 
-![block_info_github](https://github.com/user-attachments/assets/6b803b3e-1bae-43b2-90f3-153252da85d5)
+![block_info_github](https://github.com/user-attachments/assets/c6939f3f-d635-4d15-aa2c-6bfae4a9f6fd)
 
 <p align="center">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=figma,androidstudio,github,kotlin,gcp,android,chrome,api,gradle,git,notion&theme=dark"/>
