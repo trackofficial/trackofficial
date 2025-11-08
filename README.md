@@ -2,7 +2,7 @@
 ![block_info_github](https://github.com/user-attachments/assets/e4f8a1f6-c9a0-4d51-b977-8a47be409689)
 
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=figma,androidstudio,github,kotlin,gcp,android,chrome,api,gradle,git,notion&theme=dark"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=figma,androidstudio,github,kotlin,gcp,android,api,gradle,git,notion&theme=dark"/>
 </p>
 
 ### 👋 Hello!
