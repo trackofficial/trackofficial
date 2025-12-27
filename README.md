@@ -10,6 +10,7 @@
 >I started coding at 14, first exploring web development, and now focusing on mobile dev.  
 >I design and develop my own projects, always learning and growing my skills.
 
+[![GitHub Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=trackofficial&theme=github_dark)](https://github.com/trackofficial)
 
 
 I hope my works will be useful
