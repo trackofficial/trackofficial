@@ -11,9 +11,3 @@
 >I design and develop my own projects, always learning and growing my skills.
 
 I hope my works will be useful
-
-<div align="center">
-
-[![GitHub Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=trackofficial&theme=github_dark)](https://github.com/trackofficial)
-
-</div>
